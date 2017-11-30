@@ -6,7 +6,9 @@
  */
 public class Library {
     public boolean someLibraryMethod() {
-    	System.out.println("****fourth gradle proj");
-        return true;
+    	return true;
     }
+    public static void main() {
+    	System.out.println("****fourth gradle proj");
+	}
 }
