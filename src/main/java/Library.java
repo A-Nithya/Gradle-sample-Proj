@@ -9,6 +9,6 @@ public class Library {
     	return true;
     }
     public static void main() {
-    	System.out.println("****fourth gradle proj");
+    	System.out.println("******fourth gradle proj");
 	}
 }
